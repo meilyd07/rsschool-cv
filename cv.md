@@ -1,7 +1,7 @@
 # Hanna Rybakova
-profile: https://www.linkedin.com/
-tel: _+375 (29) 0-000-000_
-email: _someemail@some.com_
+profile: https://www.linkedin.com/   
+tel: _+375 (29) 0-000-000_   
+email: _someemail@some.com_   
 
 ### Summary
 My goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
@@ -21,9 +21,9 @@ caching, and tuned calls to Parse. App is built upon Parse backend.
   - Seo checker - SEO Software for better website optimization
 
 ### Education
-**Marshall University**
-Huntungtun, WV 25753
-**B.S. in Math**, 2011
+**Marshall University**   
+Huntungtun, WV 25753   
+**B.S. in Math**, 2011   
 
 ### Foreign languages
   - **English:** _A2_
